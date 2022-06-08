@@ -1,0 +1,11 @@
+.status-error{
+    border: 1.5px solid red !important;
+}
+.content-process{
+    border: 1.5px solid black;
+    background-color: #f4d1b0;
+    padding: 15px;
+}
+tfoot tr td {
+    font-size: 18px;
+}
